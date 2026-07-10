@@ -1,1 +1,1 @@
-# sustentabilidade-para-um-futuro-melhor
+Esse projeto contem texto de explicação para as pessoas entebnder um pouco sobre o projeto, esse projeto ele também tem um quiz sobre o meio ambiente e com esse jogo expero que as pessoas poder entemder sobre o meio ambiente,e espero que esse projeto ajude as pessoas aprendam sobre cuidar do meio ambiente e reciclar de maneira correta para o nosso meio ambiente ser mais limpo e reciclável.
